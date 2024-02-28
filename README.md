@@ -15,5 +15,6 @@
 3. 광대 / 악마 : 매 5턴마다 랜덤 게임 구현 (주사위 게임, 홀짝 게임, 앞/뒤 동전던지기 게임)
 
 **[Project Play]**
+
 https://github.com/budflower44/As-The-King-Wishes/assets/84706498/9edc147a-6ba4-4a55-a794-d7347e783baa
 
